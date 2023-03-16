@@ -1,0 +1,69 @@
+.navbar{
+    background-color: wheat;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0px 20px ;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.banner {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small {
+  height: 100px;  
+  width: 100px;
+  filter: drop-shadow(1px 1px 1px white);
+}
+
+.keyserr-section {
+    padding: 20px 50px;
+}
+
+#keyserr {
+    color: black;
+    font-size: 100px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url('../images/keyser.png');
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+   color: blue; 
+}
+
+body {
+    margin: 0px;
+    background-color: salmon;
+    }
+
